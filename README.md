@@ -109,3 +109,11 @@ API routes are exposed for CRUD operations on tasks.
 Frontend:
 Users interact with a React-based UI.
 Axios is used to make API requests to the backend for managing tasks.
+
+ScreenShot
+MONGODB DB 
+![image](https://github.com/user-attachments/assets/f1fcb414-6850-463c-9e62-f89c8360206a)
+Application 
+![image](https://github.com/user-attachments/assets/4a6a406f-8d4a-4941-a9c7-b4caf3f9d038)
+
+
