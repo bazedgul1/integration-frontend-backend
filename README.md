@@ -1,14 +1,15 @@
-#Task Management Application
+<h1 > Task Management Application </h1>
+
 This is a full-stack application for managing tasks. It allows users to create, update, view, and delete tasks. Tasks have a title, description, status, and creation timestamp. The app uses Express.js and Mongoose for the backend and React.js with TailwindCSS for the frontend.
 
-Features
+<h2> Features </h2>
 Backend (Node.js + Express + Mongoose)
 RESTful API with the following routes:
-POST /api/tasks: Add a new task.
-GET /api/tasks: Retrieve all tasks.
-PUT /api/tasks/:id: Update a task by its ID.
-DELETE /api/tasks/:id: Delete a task by its ID.
-
+<li>POST /api/tasks: Add a new task. </li>
+<li>GET /api/tasks: Retrieve all tasks. </li>
+<li>PUT /api/tasks/:id: Update a task by its ID.</li>
+<li>DELETE /api/tasks/:id: Delete a task by its ID. </li>
+<br>
 MongoDB is used as the database to store tasks.
 Environment variables (.env) are used to store the MongoDB connection string.
 Frontend (React.js + TailwindCSS)
