@@ -1,4 +1,4 @@
-Task Management Application
+#Task Management Application
 This is a full-stack application for managing tasks. It allows users to create, update, view, and delete tasks. Tasks have a title, description, status, and creation timestamp. The app uses Express.js and Mongoose for the backend and React.js with TailwindCSS for the frontend.
 
 Features
